@@ -1,0 +1,9 @@
+How to use:
+
+1. build the code using g++ (you should use c++11 stdlib)
+2. input is stdin and output is stdout
+3. the input format is as follows:
+	first line is the output format
+	second line is input for complete example
+	third line is output for complete example
+	after the third line you should specify that the next line is an other example or you want the program to expect the output for an input. If you want to add an example, you give "example" in the line and on two next lines you'll provide input and output. Otherwise, in the next line you provide the input and the program tell you its expected output

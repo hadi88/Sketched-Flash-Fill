@@ -1,0 +1,9 @@
+{[lastname] - {[init]# } |}
+Cerny, P. C. , Hdaaf, V. B. 
+{[Cerny]{[P][C]}[Hdaaf]{[V][B]}}
+example
+Sankaranarayanan, S. , Zack, B. V. 
+{[Sankaranarayanan]{[S]}[Zack]{[B][V]}}
+input
+Ravanbakhsh, H. Z. , Deck, V. B. 
+

@@ -1,0 +1,9 @@
+{[name]\\}
+Company\Code\index.html
+{[Company][Code]}
+example
+Company\Docs\Spec\specs.doc
+{[Company][Docs][Spec]}
+input
+Company\System\Bug\test.html
+

@@ -1,0 +1,9 @@
+{[Init]}
+International Business Machines
+{[I][B][M]}
+example
+Principles Of Programming Languages
+{[P][O][P][L]}
+input
+International Conference Software Engineering
+

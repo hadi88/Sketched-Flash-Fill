@@ -1,0 +1,9 @@
+[value] [unit]
+BTR KRNL WK CORN 15Z
+[15][Z]
+example
+CAMP DRY DBL NDL 6 OZ
+[6][OZ]
+input
+CHORE BOY HD SPNG 1 PK
+
